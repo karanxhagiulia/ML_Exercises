@@ -1,5 +1,14 @@
 # ML_Exercises
 
+Wine Classification
+==============
+
+Using Plotly
+
+![image](https://user-images.githubusercontent.com/96819403/210186103-73c80f1c-6fb6-4af8-8100-c7c47bd1be68.png)
+- Wine multiclass and binary, quality classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/ML_Exercises/blob/main/Wine_Multiclass_and_Binary.ipynb)
+
+
 Loan prediction
 ===============
 - Loan Prediction Exercise with Random Forest and Pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karanxhagiulia/ML_Exercises/blob/main/LOAN_Exercise_Random_Forest.ipynb)
